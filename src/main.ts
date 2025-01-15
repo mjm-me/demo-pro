@@ -1,7 +1,5 @@
+import { add } from "./services.ts";
+
 console.log("Loaded  main");
 
-
-let x = "Pepe";
-console.log(x);
-let y = 23
-console.log(y);
+console.log(add(5, 24));

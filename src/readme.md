@@ -5,6 +5,5 @@
 ### Elementos iniciales
 
 - root
--  .gitignore
--  
-s
+- .gitignore
+-
